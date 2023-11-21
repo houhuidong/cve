@@ -1,0 +1,8 @@
+There is an RCE vulnerability in the intelligent management platform of Byzro Networks Smart S210 multi-service security gateway.
+
+Vulnerability location:/Tool/repair.php
+
+version：S210
+
+1. The login interface is as shown in the figure.
+
